@@ -2,9 +2,9 @@
 
 
 <div>
-<img src="https://tenor.com/pt-BR/view/grilla-yes-hell-thumbs-up-gif-23566773" width=200 height=200/>
+<img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/>
 </div>
-  
+
   
 ## My name is Filipe S Dalpiaz and my nickname is fsdalpiaz!
 
