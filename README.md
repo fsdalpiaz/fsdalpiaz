@@ -1,4 +1,11 @@
 # Hi there, welcome to my GitHub profile 👋
+
+
+<div>
+<img src="https://tenor.com/pt-BR/view/grilla-yes-hell-thumbs-up-gif-23566773" width=200 height=200/>
+</div>
+  
+  
 ## My name is Filipe S Dalpiaz and my nickname is fsdalpiaz!
 
 
