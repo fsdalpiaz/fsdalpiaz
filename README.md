@@ -30,10 +30,15 @@
   
 </p>
 <div>
-- 👯 I’m looking to collaborate on data projects and work as a dev jr
-- 🤔 I would like help with a career transition
-- 💬 Ask me about industrial knowledge and data science
-- 📫 How to reach me:
+<li> 👯 I’m looking to collaborate on data projects and work as a dev jr</li>
+<li> 🤔 I would like help with a career transition</li>
+<li> 💬 Ask me about industrial knowledge and data science</li>
+<li> 📫 How to reach me:</li>
+</div>
+<div>
+
+...
+  
 </div>
 <div>
 <a href="https://instagram.com/dalpiazfs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
