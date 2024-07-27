@@ -17,13 +17,19 @@
 ```Markdown
 - 🌱 I’m currently learning
 ```
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50/> using <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width=50 height=50/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=50 height=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50/> 
 
+```Markdown
+using 
+```
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width=50 height=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=50 height=50/>
+</div>
 ...
  
 ```Markdown
-- I saw not so far
+- I saw too for long
 ```
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width=50 height=50/> 
 ```Markdown
@@ -40,8 +46,8 @@ with some knowledge on throw servers AWS
 
 ```Markdown
 # THEN...
-- 👯 I’m looking to collaborate on data projects and work as a dev jr
-- 🤔 I would like help with a career transition
+- 👯 I’m looking for collaborations on data projects and to work as a dev jr
+- 🤔 I would like some help with a career transition
 - 💬 Ask me about industrial knowledge and data science
 
 ## 📫 How to reach me:
