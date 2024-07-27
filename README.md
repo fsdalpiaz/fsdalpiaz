@@ -63,5 +63,5 @@ with some knowledge on throw servers AWS
 
 
 ![Ticketsys Card](https://github-readme-stats.vercel.app/api/pin/?username=fsdalpiaz&repo=Ticketsys&show_owner=true&theme=transparent) ![GUI calc Card](https://github-readme-stats.vercel.app/api/pin/?username=fsdalpiaz&repo=CalcGUI&show_owner=true&theme=transparent)
-![Video Generated with AI](https://github.com/fsdalpiaz/lab-natty-or-not) ![Podcast Generated with AI](https://github.com/fsdalpiaz/prompts-for-podcast-generate-by-ia) 
-![Artigo publicado DIO](https://github.com/fsdalpiaz/Article-generated-with-AI) ![Ebook "Seletores CSS" AI Supported](https://github.com/fsdalpiaz/Article-generated-with-AI) 
+![Video Generated with AI](https://github-readme-stats.vercel.app/api/pin/?username=fsdalpiaz&repo=lab-natty-or-not&show_owner=true&theme=transparent) ![Podcast Generated with AI](https://github-readme-stats.vercel.app/api/pin/?username=fsdalpiaz&repo=prompts-for-podcast-generate-by-ia&show_owner=true&theme=transparent) 
+![Artigo publicado DIO](https://github-readme-stats.vercel.app/api/pin/?username=fsdalpiaz&repo=Article-generated-with-AI&show_owner=true&theme=transparent) ![Ebook "Seletores CSS" AI Supported](https://github-readme-stats.vercel.app/api/pin/?username=fsdalpiaz&repo=Ebook_Seletores_CSS&show_owner=true&theme=transparent) 
