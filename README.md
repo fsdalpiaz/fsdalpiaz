@@ -8,8 +8,7 @@
 ```Markdown
 - 🔭 I’m currently working on
 ```
-<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/petrochemical-1617312-1377778.png" width=80 height=80/> Petrochemical Industry
-<p>
+<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/petrochemical-1617312-1377778.png" width=80 height=80/> <span><h4>Petrochemical Industry</h4></span>
 
 ...
 ```Markdown
