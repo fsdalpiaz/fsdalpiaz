@@ -1,13 +1,11 @@
-```Markdown
-# Hi there, welcome to my GitHub profile 👋
+<h1>
+     <img align="center" width="150px" src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif">
+    <span> Hi there, welcome to my GitHub profile 👋</span>
+</h1>
 
+```Markdown
 ## My name is Filipe S Dalpiaz and my nickname is fsdalpiaz!
-```
-<div>
-<img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/>
-</div>
 
-```Markdown
 - 🔭 I’m currently working on
 ```
 <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/petrochemical-1617312-1377778.png" width=50 height=50/> Petrochemical Industry
