@@ -8,28 +8,28 @@
 ```Markdown
 - 🔭 I’m currently working on
 ```
-<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/petrochemical-1617312-1377778.png" width=50 height=50/> Petrochemical Industry
+<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/petrochemical-1617312-1377778.png" width=80 height=80/> Petrochemical Industry
 <p>
 
 ...
 ```Markdown
 - 🌱 I’m currently learning
 ```
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=80 height=80/> 
 
 ```Markdown
 using 
 ```
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width=50 height=50/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=50 height=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width=80 height=80/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=80 height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=80 height=80/>
 </div>
 ...
  
 ```Markdown
 - I saw too for long
 ```
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width=50 height=50/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=80 height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=80 height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width=80 height=80/> 
 ```Markdown
 with some knowledge on throw servers AWS
 ```
@@ -38,7 +38,7 @@ with some knowledge on throw servers AWS
 ```Markdown
 - For my own skill development I made some clone projects using
 ```
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=50 height=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=80 height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=80 height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=80 height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=80 height=80/>
 
 ...
 
@@ -48,8 +48,9 @@ with some knowledge on throw servers AWS
 - 🤔 I would like some help with a career transition
 - 💬 Ask me about industrial knowledge and data science
 
-## 📫 How to reach me:
 ```
+<h3>📫 How to reach me:</h3>
+
 <div>
 <a href="https://instagram.com/dalpiazfs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:filipsdalpiaz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
